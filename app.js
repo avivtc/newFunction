@@ -13,4 +13,7 @@
         return alert(total)
       }
 
-      sumNumber(3);
+      sumNumber(+prompt("Number"));
+
+
+
